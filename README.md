@@ -1,4 +1,10 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: JEEBAN PRADEEP PANDA
+*INTERN ID*: CT08OLX
+*DOMAIN*: PYTHON PROGRAMMING
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTHOSH KUMAR
 ##
 📌 Project Overview
 This project is part of my Python Internship at CodTech. The goal of Task 1 is to fetch data from a public API (OpenWeatherMap) and create visualizations using Matplotlib.
